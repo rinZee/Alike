@@ -10,7 +10,7 @@ const Home = () => {
       </h1>
 
       <p className="desc text-center">
-        ShowShare is an world to discover and find people have similar taste in
+        Alike is an world to discover and find people have similar taste in
         movies
       </p>
     </section>
